@@ -2,7 +2,7 @@
 
 An introductory course on computer engineering for freshman undergrad students.
 
-## Topics(may change)
+## Lecture notes
 1. Administrivia, intro, solving problems with computers: 
    - number systems
    [1intro-number-systems.pdf](lectures/1intro-number-systems.pdf)
