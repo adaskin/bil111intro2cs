@@ -19,19 +19,23 @@ An introductory course on computer engineering for freshman undergrad students.
    - OS, VMs, Cloud
    - VM installation
    - Linux installation on VM
-    [5OS-vms-running-sw.pdf](lectures/5OS-vms-running-sw.pdf)
+   [5OS-vms-running-sw.pdf](lectures/5OS-vms-running-sw.pdf)
 6. Interacting with OS:
    - Linux OS
    - terminal commands
-7. Documentation: Writing/editing files
-   - Vim,gedit, emacs, etc
+   [6how-to-interact-with-os.pdf](lectures/6how-to-interact-with-os.pdf)
+7. Writing programs source control
+   - Vim,nano/pico, gedit, emacs, etc
    - IDEs
-   - Doxygen, Latex,  word, excel, etc.
-8. Midterm
-9.  Documentation and version control
-    - x,y graphs, Python pyplot, Jupyter notebook
-    - version control, git, etc
-10. html and css
+   - Version control: Git commands 
+  [7writing-programs-source-control.pdf](lectures/7writing-programs-source-control.pdf)
+8. Midterm 
+9. Documentation and visualization 
+   - Doxygen, Latex, markdown 
+   - Jupyter notebook, Google colab
+   - 2d-3d plots with Python matplotlib
+   [8documentation-visualization.pdf](lectures/8documentation-visualization.pdf)
+10. html and css, intro to javascript
 11. intro to javascript and database(SQL)
 12. intro to network
 13. intro to security
