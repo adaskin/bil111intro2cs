@@ -36,7 +36,9 @@ An introductory course on computer engineering for freshman undergrad students.
    - 2d-3d plots with Python matplotlib
    [8documentation-visualization.pdf](lectures/8documentation-visualization.pdf)
 10. html and css, intro to javascript
-11. intro to javascript and database(SQL)
+   [9html-css-javascript.pdf](lectures/9html-css-javascript.pdf)
+11. Data transmission, storage, database, SQL
+   [10datatransmission-database.pdf](lectures/10datatransmission-database.pdf)
 12. intro to network
 13. intro to security
 14. review (and some special topics)
