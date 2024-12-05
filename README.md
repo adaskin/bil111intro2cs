@@ -1,6 +1,6 @@
-# bil111 intro to (foundations of) computer engineering
+# BIL 111 intro to computer engineering
 
-An introductory course on computer engineering for freshman undergrad students.
+An introductory course on computer engineering for undergrad students.
 
 ## Lecture notes
 1. Administrivia, intro, solving problems with computers: 
