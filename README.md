@@ -40,7 +40,8 @@ An introductory course on computer engineering for undergrad students.
 11. Data transmission, storage, database, SQL
    [10datatransmission-database.pdf](lectures/10datatransmission-database.pdf)
 12. intro to networks
-    [11intro-to-networks.pdf](lectures/11intro-to-networks.pdf)
+   [11intro-to-networks.pdf](lectures/11intro-to-networks.pdf)
 13. intro to security
-     [12intro-to-security.pdf](lectures/12intro-to-security.pdf)
-14. review (and some special topics)
+   [12intro-to-security.pdf](lectures/12intro-to-security.pdf)
+14. security2 - review 
+   [13intro-to-security2.pdf](lectures/13intro-to-security2.pdf)
